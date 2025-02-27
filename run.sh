@@ -1,0 +1,1 @@
+deno run --watch --allow-write --allow-read main.ts
